@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hi there 👋</h2>  
-<h2 align="center"><b>🛠 Technology Stack 🛠</b></h2>
-
+<h2 align="center">🛠 Technology Stack 🛠</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp

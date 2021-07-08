@@ -1,4 +1,4 @@
-<h2 align="center"><b>👋 Hi there 👋</b></h2>  
+<h2 align="center">👋 Hi there 👋</h2>  
 <h2 align="center"><b>🛠 Technology Stack 🛠</b></h2>
 
 

@@ -1,11 +1,14 @@
-👋 Hi there 👋
-Hello, I'm Younghoon Kim!
+👋 Hi there 👋 <br>
+Hello, I'm Younghoon Kim! <br>
 
-간략 소개 : 비트캠프 196기 수료한 김영훈이라고 합니다 대학교 수업 때 웹 공부를 조금 했지만 지식이 부족하다고 느껴 졸업 하고도 학원에 가서 
-팀원들과 함께 프로젝트 주제로 웹 페이지 하나를 만들었습니다 프로젝트를 진행하면서 힘든 부분도 많았고 좌절도 했지만 끝까지 포기 하지 않고 
-배우면서 개근으로 수료한 사실에 뿌듯합니다 배워야 할 부분이 아직 많이 있지만 새로운 기술을 열정적이고 성실히 임하겠습니다.
+간략 소개 : 비트캠프 196기 수료한 김영훈이라고 합니다.<br>
+대학교 수업 때 웹 공부를 조금 했지만 지식이 부족하다고 느껴 <br>
+졸업 하고도 학원에 가서 팀원들과 함께 프로젝트 주제로 웹 페이지 하나를 만들었습니다. <br>
+프로젝트를 진행하면서 힘든 부분도 많았고 좌절도 했지만 끝까지 포기 하지 않고 <br>
+배우면서 개근으로 수료한 사실에 뿌듯합니다 배워야 할 부분이 아직 많이 있지만 새로운 기술을 열정적이고 성실히 임하겠습니다.<br>
 
-<h2 align="center">🛠 Technology Stack 🛠</h2>
+<br>
+<h2 align="center">🛠 My Technology Stack 🛠</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp

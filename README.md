@@ -1,4 +1,4 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h2 align="center"><b>🛠 Technology Stack 🛠</b></h2>
 </br>
 
 <p align="center">

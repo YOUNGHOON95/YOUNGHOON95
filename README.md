@@ -10,9 +10,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Ajax-blue"/></a> &nbsp 비동기
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp 마이바티스
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp 아임포트 api
+<img src="https://img.shields.io/badge/Ajax-blue"/></a> &nbsp
+<img src="https://img.shields.io/badge/Mybatis-black"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Import-api-informational"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->
  

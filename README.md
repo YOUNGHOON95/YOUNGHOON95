@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Ajax-blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/Mybatis-black"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Import-api-informational"/></a> &nbsp
+<img src="https://img.shields.io/badge/Import api-informational"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->
  

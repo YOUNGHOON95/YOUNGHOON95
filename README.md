@@ -1,5 +1,5 @@
 👋 Hi there 👋 <br>
-Hello, I'm Younghoon Kim! <br>
+Hello, I'm Younghoon Kim!! <br>
 
 비트캠프 196기 수료한 김영훈이라고 합니다.<br>
 대학교 수업 때 웹 공부를 조금 했지만 지식이 부족하다고 느껴 <br>
